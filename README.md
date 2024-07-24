@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 2
+# Swisstronik Tesnet MINT 100 ERC-20 TOKENS
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
