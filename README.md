@@ -1,4 +1,4 @@
-# Swisstronik Tesnet MINT 100 ERC-20 TOKENS
+# Swisstronik Testnet MINT 100 ERC-20 TOKENS
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
@@ -97,5 +97,4 @@ npm run transfer
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
 github : [Mnuralim](https://github.com/Mnuralim)
